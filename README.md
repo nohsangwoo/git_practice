@@ -26,3 +26,6 @@ cat이라는 읾의 branch로 이동하라
 #merge 합치기
 git merge orc
 //git merge 브랜치이름
+
+#conflict (충돌시 해결법)
+수동으로 적고 수정하면됨
