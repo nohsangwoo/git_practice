@@ -17,3 +17,12 @@ git checkout cat
 cat이라는 읾의 branch로 이동하라
 
 그럼 기존의 head인 master branch에서 cat branch로 head가 이동됨
+
+#다른 협업자도 각자의 branch를 만들어서 평행세계를 만들어둠
+이후 다른 협업자들은 git pull 시도후
+
+소스트리 좌측하단의 원격 하위 카테고리에서 다른 branch를 가져올수있음
+
+#merge 합치기
+git merge orc
+//git merge 브랜치이름
